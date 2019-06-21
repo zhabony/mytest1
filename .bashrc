@@ -1,0 +1,2 @@
+BASHRCVALUE=TESTBASHRCVALUE
+echo '144.144.144.144 testhost' >> /etc/hosts
